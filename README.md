@@ -92,6 +92,6 @@ I also copy the openocd config script from /usr/local/openocd/scripts/board to l
 
 ![start openocd](https://github.com/c2real/dap-mode-setup-for-mcu/blob/main/picture/start-openocd.png?raw=true)
 
-Then start eamcs.
+Then start emacs.
 ![start emacs](https://github.com/c2real/dap-mode-setup-for-mcu/blob/main/picture/debugging.gif)
 
